@@ -1,0 +1,19 @@
+jobs:
+  mirror:
+    env:
+      GIT_AUTHOR_EMAIL: github-mirror@localhost
+      GIT_AUTHOR_NAME: github-mirror
+      GIT_COMMITTER_EMAIL: github-mirror@localhost
+      GIT_COMMITTER_NAME: github-mirror
+    runs-on: native
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        ref: master
+    - run: git checkout --orphan snapshot
+    - run: git commit -m "Snapshot of $(git rev-parse --short master)"
+    - run: git push --force git@github.com:anders130/infra.git snapshot:master
+'on':
+  schedule:
+  - cron: 0 3 * * 0
+  workflow_dispatch: {}
