@@ -1,0 +1,30 @@
+jobs:
+  deploy:
+    runs-on: native
+    steps:
+    - uses: actions/checkout@v4
+    - name: Build ${{ matrix.host }}
+      uses: https://git.gollub.dev/jesse/actions/nix-build@v1
+      with:
+        allow-failure: ${{ matrix.allowFailure == true }}
+        installable: .#nixosConfigurations.${{ matrix.host }}.config.system.build.toplevel
+    - name: Deploy ${{ matrix.host }}
+      run: nix run --accept-flake-config .#deploy -- --skip-checks .#${{ matrix.host
+        }} || [ "${{ matrix.allowFailure == true }}" = true ]
+    strategy:
+      fail-fast: false
+      matrix:
+        host:
+        - dns-pi
+        - ds1
+        - led-pi
+        - music-pi
+        - vps1
+        include:
+        - allowFailure: true
+          host: music-pi
+'on':
+  push:
+    branches:
+    - master
+  workflow_dispatch: {}

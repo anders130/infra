@@ -1,0 +1,20 @@
+{
+ "song:[\"4UnU3r0M3zg\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"GLvohMXgcBo\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_OMV"},
+ "song:[\"H4rBLGmbe80\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"N47SWUcYhQU\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"PzP8mw7JUzI\"]": {"musicVideoType": null},
+ "song:[\"XsCPCmpNeto\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"Y2Duog7ZWcA\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"n50LrYEcqo4\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"vB8dweYCLes\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"4UnU3r0M3zg\"]": {"videoId": "4UnU3r0M3zg", "title": "Under the Bridge", "artists": ["Red Hot Chili Peppers"], "album": "Blood Sugar Sex Magik (Deluxe Edition)", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"GLvohMXgcBo\"]": {"videoId": "GLvohMXgcBo", "title": "Under The Bridge", "artists": ["Red Hot Chili Peppers"], "album": null, "videoType": "MUSIC_VIDEO_TYPE_OMV"},
+ "watch_playlist:[\"H4rBLGmbe80\"]": {"videoId": "H4rBLGmbe80", "title": "Soul to Squeeze", "artists": ["Red Hot Chili Peppers"], "album": "Coneheads (Music From The Motion Picture Soundtrack)", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"N47SWUcYhQU\"]": {"videoId": "N47SWUcYhQU", "title": "Mammagamma", "artists": ["The Alan Parsons Project"], "album": "Eye In The Sky", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"PzP8mw7JUzI\"]": {"videoId": "PzP8mw7JUzI", "title": "WPF C# Professional Modern Flat UI Tutorial", "artists": ["Payload"], "album": null, "videoType": "MUSIC_VIDEO_TYPE_UGC"},
+ "watch_playlist:[\"XsCPCmpNeto\"]": {"videoId": "5flyIBwg7t0", "title": "BOTZ", "artists": ["Daddy Yankee"], "album": "BOTZ", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"Y2Duog7ZWcA\"]": {"videoId": "Y2Duog7ZWcA", "title": "Down To The Waterline", "artists": ["Dire Straits"], "album": "Dire Straits", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"n50LrYEcqo4\"]": {"videoId": "n50LrYEcqo4", "title": "Cheer Up, Boys (Your Make Up Is Running)", "artists": ["Foo Fighters"], "album": "Echoes, Silence, Patience & Grace", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"vB8dweYCLes\"]": {"videoId": "vB8dweYCLes", "title": "I Robot", "artists": ["The Alan Parsons Project"], "album": "I Robot", "videoType": "MUSIC_VIDEO_TYPE_ATV"}
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "header": "YouTube",
+    "title": "Beispielvideo 0 angesehen",
+    "titleUrl": "https://www.youtube.com/watch?v=XHJJmWHXhOc",
+    "subtitles": [
+      {
+        "name": "Beispielkanal 0",
+        "url": "https://www.youtube.com/channel/UCexample"
+      }
+    ],
+    "time": "2026-10-15T10:17:42.722Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube",
+    "title": "Beispielvideo 1 angesehen",
+    "titleUrl": "https://www.youtube.com/watch?v=udSPlq9Q15g",
+    "subtitles": [
+      {
+        "name": "Beispielkanal 1",
+        "url": "https://www.youtube.com/channel/UCexample"
+      }
+    ],
+    "time": "2026-10-15T10:14:43.914Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube",
+    "title": "Beispielvideo 2 angesehen",
+    "titleUrl": "https://www.youtube.com/watch?v=vIp3z2ipoDI",
+    "subtitles": [
+      {
+        "name": "Beispielkanal 2",
+        "url": "https://www.youtube.com/channel/UCexample"
+      }
+    ],
+    "time": "2026-10-15T10:13:44.695Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube",
+    "title": "Beispielvideo 3 angesehen",
+    "titleUrl": "https://www.youtube.com/watch?v=2-yv1f2eB18",
+    "subtitles": [
+      {
+        "name": "Beispielkanal 3",
+        "url": "https://www.youtube.com/channel/UCexample"
+      }
+    ],
+    "time": "2026-10-15T10:12:48.234Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Soul to Squeeze angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=H4rBLGmbe80",
+    "subtitles": [
+      {
+        "name": "Red Hot Chili Peppers - Topic",
+        "url": "https://www.youtube.com/channel/UCrSorX845CEWXzU4Z7BojjA"
+      }
+    ],
+    "time": "2026-10-13T20:48:22.990Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Under the Bridge angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=4UnU3r0M3zg",
+    "subtitles": [
+      {
+        "name": "Red Hot Chili Peppers - Topic",
+        "url": "https://www.youtube.com/channel/UCrSorX845CEWXzU4Z7BojjA"
+      }
+    ],
+    "time": "2026-10-13T20:43:57.758Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Down To The Waterline angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=Y2Duog7ZWcA",
+    "subtitles": [
+      {
+        "name": "Dire Straits - Topic",
+        "url": "https://www.youtube.com/channel/UCA37MBUzQgLbUHoUQgl-p0g"
+      }
+    ],
+    "time": "2026-10-13T20:43:47.804Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Mammagamma angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=N47SWUcYhQU",
+    "subtitles": [
+      {
+        "name": "The Alan Parsons Project - Topic",
+        "url": "https://www.youtube.com/channel/UCvb0RGY80J8LSG1kIwNSXHA"
+      }
+    ],
+    "time": "2026-10-13T20:42:14.373Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "I Robot angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=vB8dweYCLes",
+    "subtitles": [
+      {
+        "name": "The Alan Parsons Project - Topic",
+        "url": "https://www.youtube.com/channel/UCvb0RGY80J8LSG1kIwNSXHA"
+      }
+    ],
+    "time": "2026-10-13T20:01:08.454Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Cheer Up, Boys (Your Make Up Is Running) angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=n50LrYEcqo4",
+    "subtitles": [
+      {
+        "name": "Foo Fighters - Topic",
+        "url": "https://www.youtube.com/channel/UCwDw2KaS8jRUxAPScL2U8og"
+      }
+    ],
+    "time": "2026-10-13T16:34:24.194Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Cheer Up, Boys (Your Make Up Is Running) angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=n50LrYEcqo4",
+    "subtitles": [
+      {
+        "name": "Foo Fighters - Topic",
+        "url": "https://www.youtube.com/channel/UCwDw2KaS8jRUxAPScL2U8og"
+      }
+    ],
+    "time": "2026-09-10T21:00:05.565Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "I Robot angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=vB8dweYCLes",
+    "subtitles": [
+      {
+        "name": "The Alan Parsons Project - Topic",
+        "url": "https://www.youtube.com/channel/UCvb0RGY80J8LSG1kIwNSXHA"
+      }
+    ],
+    "time": "2026-08-08T16:40:37.109Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  },
+  {
+    "header": "YouTube Music",
+    "title": "Under the Bridge angesehen",
+    "titleUrl": "https://music.youtube.com/watch?v=4UnU3r0M3zg",
+    "subtitles": [
+      {
+        "name": "Red Hot Chili Peppers - Topic",
+        "url": "https://www.youtube.com/channel/UCrSorX845CEWXzU4Z7BojjA"
+      }
+    ],
+    "time": "2026-07-22T17:06:12.661Z",
+    "products": [
+      "YouTube"
+    ],
+    "activityControls": [
+      "YouTube-Wiedergabeverlauf"
+    ]
+  }
+]

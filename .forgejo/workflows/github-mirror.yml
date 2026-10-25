@@ -1,0 +1,12 @@
+jobs:
+  mirror:
+    runs-on: native
+    steps:
+    - uses: https://git.gollub.dev/jesse/actions/mirror@v1
+      with:
+        squash: true
+        target: git@github.com:anders130/infra.git
+'on':
+  schedule:
+  - cron: 0 3 * * 0
+  workflow_dispatch: {}
