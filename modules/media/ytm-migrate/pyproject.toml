@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ytm-migrate"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["requests", "ytmusicapi"]
+
+[project.scripts]
+ytm-migrate = "ytm_migrate.cli:main"
+
+[tool.setuptools]
+packages = ["ytm_migrate"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

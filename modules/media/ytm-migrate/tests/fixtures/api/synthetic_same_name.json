@@ -1,0 +1,5 @@
+{
+ "release_groups:[\"twin-a\"]": [{"id": "rg-twin-a", "title": "Album", "primary-type": "Album", "secondary-types": [], "first-release-date": "2001", "credit": ["twin-a"], "credit-name": "Twin"}],
+ "release_groups:[\"twin-b\"]": [{"id": "rg-twin-b", "title": "Other Album", "primary-type": "Album", "secondary-types": [], "first-release-date": "2005", "credit": ["twin-b"], "credit-name": "Twin"}],
+ "search_artists:[\"Twin\"]": [{"id": "twin-a", "name": "Twin", "score": 100, "disambiguation": "Swedish pop duo"}, {"id": "twin-b", "name": "Twin", "score": 70, "disambiguation": "US punk band"}]
+}

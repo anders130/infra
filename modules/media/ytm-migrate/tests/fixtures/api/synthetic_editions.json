@@ -1,0 +1,9 @@
+{
+ "release_groups:[\"band\"]": [{"id": "rg-record", "title": "Record", "primary-type": "Album", "secondary-types": [], "first-release-date": "2001", "credit": ["band"], "credit-name": "Band"}, {"id": "rg-record-deluxe", "title": "Record (Deluxe Edition)", "primary-type": "Album", "secondary-types": [], "first-release-date": "2011", "credit": ["band"], "credit-name": "Band"}],
+ "search_artists:[\"Band\"]": [{"id": "band", "name": "Band", "score": 100, "disambiguation": ""}],
+ "search_recordings:[\"Song\", \"band\"]": [{"id": "rec-song", "title": "Song", "release-groups": [{"id": "rg-record", "title": "Record", "primary-type": "Album", "secondary-types": [], "first-release-date": null}]}],
+ "song:[\"synthATV\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "song:[\"synthOMV\"]": {"musicVideoType": "MUSIC_VIDEO_TYPE_OMV"},
+ "watch_playlist:[\"synthATV\"]": {"videoId": "synthATV", "title": "Song", "artists": ["Band"], "album": "Record (Remastered 2015)", "videoType": "MUSIC_VIDEO_TYPE_ATV"},
+ "watch_playlist:[\"synthOMV\"]": {"videoId": "synthOMV", "title": "Song (Official Video)", "artists": ["Band"], "album": null, "videoType": "MUSIC_VIDEO_TYPE_OMV"}
+}

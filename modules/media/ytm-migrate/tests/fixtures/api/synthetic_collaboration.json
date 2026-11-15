@@ -1,0 +1,7 @@
+{
+ "release_groups:[\"solo\"]": [{"id": "rg-together", "title": "Together", "primary-type": "Album", "secondary-types": [],
+ "first-release-date": "2010", "credit": ["solo", "partner"],
+ "credit-name": "Solo Artist & Partner", "credit-artist": "Solo Artist"}],
+ "search_artists:[\"Solo Artist\"]": [{"id": "solo", "name": "Solo Artist", "score": 100, "disambiguation": ""}],
+ "search_recordings:[\"Duet\", \"solo\"]": [{"id": "rec-duet", "title": "Duet", "release-groups": [{"id": "rg-together", "title": "Together", "primary-type": "Album", "secondary-types": [],
+ "first-release-date": null}]}]}

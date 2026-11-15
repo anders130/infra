@@ -1,0 +1,7 @@
+.direnv
+.env
+.pre-commit-config.yaml
+.pytest_cache
+.worktrees
+__pycache__
+result

@@ -1,0 +1,8 @@
+{
+ "release_groups:[\"bey\"]": [{"id": "rg-lemonade", "title": "Lemonade", "primary-type": "Album", "secondary-types": [], "first-release-date": "2016-04-23", "credit": ["bey"], "credit-name": "Beyoncé"}],
+ "release_groups:[\"mono-a\"]": [{"id": "rg-hymn", "title": "Hymn to the Immortal Wind", "primary-type": "Album", "secondary-types": [], "first-release-date": "2009", "credit": ["mono-a"], "credit-name": "Mono"}],
+ "release_groups:[\"mono-b\"]": [],
+ "search_artists:[\"Beyonce\"]": [{"id": "bey", "name": "Beyoncé", "score": 98, "disambiguation": ""}, {"id": "tribute", "name": "Beyonce Tribute Band", "score": 70, "disambiguation": ""}],
+ "search_artists:[\"Mono\"]": [{"id": "mono-a", "name": "Mono", "score": 95, "disambiguation": "Japanese post-rock band"}, {"id": "mono-b", "name": "Mono Inc.", "score": 91, "disambiguation": "German gothic rock band"}],
+ "search_recordings:[\"Formation\", \"bey\"]": []
+}
